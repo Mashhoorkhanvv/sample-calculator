@@ -1,0 +1,39 @@
+
+body{
+    background-image: url(wall.jpg);
+}
+.output{
+    width: 395px;
+    height: 51px;
+
+}
+.calc{
+    width: 367px;
+    height: 400px;
+  
+    margin-left: 709px;
+    margin-top: 30px;
+}
+.buttons
+{
+    margin-left: 89px;
+    margin-top: 33px;
+}
+#screen
+{
+    width: 231px;
+    height: 37px;
+    margin-left: 68px;
+    margin-top: 15px;
+    pointer-events: none;
+}
+.btn{
+    width: 47px;
+    height: 42px;
+}
+.bttn{
+    width: 100px;
+    height: 40px;
+    margin-left: 99px;
+    margin-top: 12px
+}
